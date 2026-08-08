@@ -72,7 +72,7 @@ Deploying broken code just gets you the same errors, slower. Always confirm it r
 4. Under **Network Access** (left sidebar) → **Add IP Address** → click **Allow Access from Anywhere** (`0.0.0.0/0`). This is necessary because Render's servers use dynamic IPs.
 5. Go to **Database** (left sidebar) → click **Connect** on your cluster → **Drivers** → copy the connection string. It looks like:
    ```
-   mongodb+srv://<username>:<password>@cluster0.xxxxx.mongodb.net/?retryWrites=true&w=majority
+   <your MongoDB Atlas connection string >
    ```
 6. Replace `<username>` and `<password>` with the real values from step 3. Add a database name before the `?`, e.g. `.../urlshortener?retryWrites=true...`.
 
