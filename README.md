@@ -2,14 +2,15 @@
 
 Paste a long URL, get a short one back, and track clicks on it — in real time, backed by a real database, deployed live.
 
-**🔗 Live demo:** _add your Vercel URL here_
-**⚙️ Backend API:** _add your Render URL here_
-**📦 Repo:** _this repo_
+**🔗 Live demo:** [https://shortlink-sigma-six.vercel.app](https://shortlink-sigma-six.vercel.app)
+**⚙️ Backend API:** [https://shortlink-h6dv.onrender.com](https://shortlink-h6dv.onrender.com)
+**📦 Repo:** [https://github.com/Akanksha-git134/ShortLink.git](https://github.com/Akanksha-git134/ShortLink.git)
 
 ---
 
 ## At a glance
 
+![ShortLink demo](./demo.gif)
 ![ShortLink screenshot](./screenshot.png)
 
 <!-- Optional: a short GIF demo makes this section much stronger.
