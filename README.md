@@ -10,13 +10,9 @@ Paste a long URL, get a short one back, and track clicks on it — in real time,
 
 ## At a glance
 
-![ShortLink demo](./demo.gif)
+![ShortLink screenshot](./screenshot.png)
 
-<!-- Optional: a short GIF demo makes this section much stronger.
-Record a ~10-15 second clip (shorten a URL → see it in history → click delete)
-with ScreenToGif (Windows) or Kap (Mac), save it as demo.gif in the repo root,
-then uncomment the line below: -->
-<!-- ![ShortLink demo](./demo.gif) -->
+
 
 **What it does:** paste any URL → get a short link → visiting it redirects and counts the click → everything persists in MongoDB, visible in a live History and Statistics view.
 
