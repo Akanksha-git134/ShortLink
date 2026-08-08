@@ -11,7 +11,6 @@ Paste a long URL, get a short one back, and track clicks on it — in real time,
 ## At a glance
 
 ![ShortLink demo](./demo.gif)
-![ShortLink screenshot](./screenshot.png)
 
 <!-- Optional: a short GIF demo makes this section much stronger.
 Record a ~10-15 second clip (shorten a URL → see it in history → click delete)
